@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "TabsUrl",
 	"author": "Luigi Caradonna",
-	"homepage_url": "https://github.com/LuigiCaradonna/TabsUrl",
+	"homepage_url": "https://github.com/LuigiCaradonna/TabsUrlForChrome",
 	"description": "Retrieves the URLs from the open tabs, the user can save them into a text file or store them into the local storage to open them again later.",
 	"version": "1.0.0",
 	"icons": {
