@@ -31,8 +31,5 @@
 			"css": ["cs.css"]
 		}
 	],
-	"permissions": ["activeTab", "tabs", "storage", "scripting"],
-	"host_permissions": [
-		"<all_urls>"
-	]
+	"permissions": ["activeTab", "tabs", "storage", "scripting"]
 }
