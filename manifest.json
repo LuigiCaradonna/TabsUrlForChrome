@@ -4,7 +4,7 @@
 	"author": "Luigi Caradonna",
 	"homepage_url": "https://github.com/LuigiCaradonna/TabsUrlForChrome",
 	"description": "Retrieves the open tabs' URLs, users can save them into a text file or store them into the local storage to open them again later.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"icons": {
 		"16": "icons/tabsurl-16.png",
 		"32": "icons/tabsurl-32.png",
